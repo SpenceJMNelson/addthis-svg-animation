@@ -233,6 +233,38 @@ svg.active #share-homepage-illo-dotted-line-2 {
 
 
 
+@media screen and (max-width: 600px) {
+    .tool-background-img, .tool-foreground-img {
+        width:200%;
+    }
+
+    .tool-illustration-wrapper .tool-background-img {
+        left:-50%;
+    }
+
+    .tool-illustration-wrapper .tool-foreground-img {
+        left:-50%;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .tool-background-img, .tool-foreground-img {
+        width:400%;
+    }
+
+    .tool-illustration-wrapper .tool-background-img {
+        left:-100%;
+    }
+
+    .tool-illustration-wrapper .tool-foreground-img {
+        left:-100%;
+    }
+}
+
+
+
+
+
 
 @keyframes svg-fade-in {
     from {opacity: 0;}
