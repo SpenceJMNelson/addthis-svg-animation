@@ -107,18 +107,20 @@ padding:3em;
 
 .section-1 {
     /* Rectangle 4: */
-background-image: linear-gradient(-133deg, #0088F7 0%, #1EC6CE 100%);
+/* Gradient: */
+background-image: linear-gradient(-133deg, #FEBE12 0%, #FF6650 99%, #FF6550 100%);
 padding:12em 3em;
+color:#fff;
 }
 
 .section-1 h1 {
     font-size: 72px;
-    color:#fff;
+    
 }
 
 .section-2 {
 
-background-image: linear-gradient(-133deg, #1EC6CE 0%, #1ECE8E 100%);
+background-image: linear-gradient(-133deg, #0088F7 0%, #1EC6CE 100%);
 
 }
 
@@ -247,19 +249,7 @@ svg.active #share-homepage-illo-dotted-line-2 {
     }
 }
 
-@media screen and (max-width: 500px) {
-    .tool-background-img, .tool-foreground-img {
-        width:400%;
-    }
 
-    .tool-illustration-wrapper .tool-background-img {
-        left:-100%;
-    }
-
-    .tool-illustration-wrapper .tool-foreground-img {
-        left:-100%;
-    }
-}
 
 
 
