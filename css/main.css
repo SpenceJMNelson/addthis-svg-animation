@@ -103,6 +103,7 @@ textarea {
 .section {
 text-align: center;
 padding:3em;
+height:700px;
 }
 
 .section-1 {
@@ -115,13 +116,27 @@ color:#fff;
 
 .section-1 h1 {
     font-size: 72px;
-    
 }
 
 .section-2 {
-
 background-image: linear-gradient(-133deg, #0088F7 0%, #1EC6CE 100%);
+}
 
+.section-3 {
+background-image: linear-gradient(-133deg, #1EC6CE 0%, #1ECE8E 100%);
+}
+
+.section-4 {
+background-image: linear-gradient(-135deg, #3D3F8B 0%, #1E1F44 100%);
+}
+
+.section-5 {
+background-image: linear-gradient(-133deg, #FEBE12 0%, #FF6550 100%);
+}
+
+.section-6 {
+/* Rectangle 4 Copy 5: */
+background-image: linear-gradient(40deg, #FCBD31 0%, #2ECD90 100%);
 }
 
 .tool-section {
@@ -136,6 +151,7 @@ svg {
 
     transition:.2s;
     width:100%;
+    max-width: 600px
 }
 
 svg.active {
@@ -143,42 +159,35 @@ svg.active {
     
 }
 
-svg.active #share-homepage-illo-screen-wrapper {
-    animation-name: svg-trans-in;
-    animation-duration: 500ms;
-    animation-delay: 250ms;
-    animation-fill-mode: backwards;
-}
-
-svg.active #share-homepage-illo-tool-mockup-wrapper {
-    animation-name: svg-trans-in;
-    animation-duration: 500ms;
-    animation-delay: 500ms;
-    animation-fill-mode: backwards;
-}
-
-svg.active #share-homepage-illo-device-background-wrapper {
+svg.active .homepage-illo-device-background-wrapper {
     animation-name: svg-trans-in;
     animation-duration: 500ms;
     animation-delay: 0;
     animation-fill-mode: backwards;
 }
 
-svg.active #share-homepage-illo-dotted-line-1 {
-    animation-name: svg-fade-in;
+svg.active .homepage-illo-screen-wrapper {
+    animation-name: svg-trans-in;
     animation-duration: 500ms;
-    animation-delay: 800ms;
+    animation-delay: 250ms;
     animation-fill-mode: backwards;
 }
 
-svg.active #Increase-social-traf {
-    animation-name: svg-fade-in;
+svg.active .homepage-illo-tool-mockup-wrapper {
+    animation-name: svg-trans-in;
     animation-duration: 500ms;
-    animation-delay: 1000ms;
+    animation-delay: 500ms;
     animation-fill-mode: backwards;
 }
 
-svg.active #Share-directly-to-22 {
+svg.active .homepage-illo-dotted-line-2 {
+    animation-name: svg-fade-in;
+    animation-duration: 500ms;
+    animation-delay: 1300ms;
+    animation-fill-mode: backwards;
+}
+
+svg.active .homepage-illo-text2 {
     animation-name: svg-fade-in;
     animation-duration: 500ms;
     animation-delay: 1500ms;
@@ -186,13 +195,22 @@ svg.active #Share-directly-to-22 {
 }
 
 
-
-svg.active #share-homepage-illo-dotted-line-2 {
+svg.active .homepage-illo-dotted-line-1 {
     animation-name: svg-fade-in;
     animation-duration: 500ms;
-    animation-delay: 1300ms;
+    animation-delay: 800ms;
     animation-fill-mode: backwards;
 }
+
+
+svg.active .homepage-illo-text1 {
+    animation-name: svg-fade-in;
+    animation-duration: 500ms;
+    animation-delay: 1000ms;
+    animation-fill-mode: backwards;
+}
+
+
 
 .tool-illustration-wrapper {
     position: relative;
