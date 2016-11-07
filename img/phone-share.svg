@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="61px" height="124px" viewBox="0 0 61 124" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>phone</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="phone">
+            <g id="phone-share" transform="translate(5.000000, 89.000000)">
+                <polygon id="Fill-42" fill="#395C92" points="0.613 10.642 10.699 10.642 10.699 0.892 0.613 0.892"></polygon>
+                <polygon id="Fill-43" fill="#34A8D0" points="10.698 10.642 20.448 10.642 20.448 0.892 10.698 0.892"></polygon>
+                <polygon id="Fill-44" fill="#717272" points="20.448 10.642 30.534 10.642 30.534 0.892 20.448 0.892"></polygon>
+                <polygon id="Fill-45" fill="#8E8E8E" points="30.534 10.642 40.284 10.642 40.284 0.892 30.534 0.892"></polygon>
+                <polygon id="Fill-46" fill="#FF6550" points="40.284 10.642 50.37 10.642 50.37 0.892 40.284 0.892"></polygon>
+                <polygon id="Fill-47" fill="#FFFFFF" points="44.6543 2.9092 44.6543 5.2622 42.6373 5.2622 42.6373 6.6072 44.6543 6.6072 44.6543 8.6242 45.9993 8.6242 45.9993 6.6072 48.0163 6.6072 48.0163 5.2622 45.9993 5.2622 45.9993 2.9092"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

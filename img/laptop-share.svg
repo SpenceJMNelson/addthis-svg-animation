@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="530px" height="338px" viewBox="0 0 530 338" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>laptop</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="laptop">
+            <g id="laptop-share" transform="translate(32.000000, 126.000000)">
+                <polygon id="Fill-74" fill="#395C92" points="0.516 19.542 18.843 19.542 18.843 0.583 0.516 0.583"></polygon>
+                <polygon id="Fill-76" fill="#34A8D0" points="0.516 37.869 18.843 37.869 18.843 19.542 0.516 19.542"></polygon>
+                <polygon id="Fill-77" fill="#717272" points="0.516 56.828 18.843 56.828 18.843 37.869 0.516 37.869"></polygon>
+                <polygon id="Fill-78" fill="#8E8E8E" points="0.516 75.155 18.843 75.155 18.843 56.828 0.516 56.828"></polygon>
+                <polygon id="Fill-79" fill="#FF6550" points="0.516 94.114 18.843 94.114 18.843 75.155 0.516 75.155"></polygon>
+                <polygon id="Fill-80" fill="#FFFFFF" points="15.0513 83.3701 10.6273 83.3701 10.6273 79.5781 8.0993 79.5781 8.0993 83.3701 4.3083 83.3701 4.3083 85.8981 8.0993 85.8981 8.0993 89.6901 10.6273 89.6901 10.6273 85.8981 15.0513 85.8981"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
